@@ -1,4 +1,4 @@
-# Arp8
+# Arp-8
 MIDI-to-CV arpeggiator
 
 The Arp-8 is a MIDI to CV converter that can arpeggiate, syncing with either a MIDI clock, analog clock (+5v pulse), or
